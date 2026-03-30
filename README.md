@@ -9,7 +9,7 @@
 |-------|---------|
 | Name | Vasu |
 | Registration Number | 24BAI10837|
-| Slot | B22 |
+| Slot | A24 |
 | Software Audited | Git |
 | License | GPL v2 |
 
