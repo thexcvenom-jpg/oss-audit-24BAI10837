@@ -93,7 +93,7 @@ chmod +x script5.sh
 ## How to Run All Scripts
 ```bash
 # Clone the repository
-git clone https://github.com/piyush-276/oss-audit--24BAI10837
+git clone https://github.com/thexcvenom-jpg/oss-audit-24BAI10837
 
 # Navigate into the folder
 cd oss-audit-24BAI10837
